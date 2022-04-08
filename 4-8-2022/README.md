@@ -6,7 +6,7 @@ Also need to test how the color reacts in different situations, like with a high
 We also need to work on gyro, see different measurements. 
 
 ### Line follow notes
-shouldn't be too hard, python is very straightforward, so translating it from python should be no problem
+shouldn't be too hard, python is very straightforward, so translating it from python should be no problem (PID is a different story tho... I was talking about zig-zag strategy).
 
 ### accel deccel
 harder, but use math functions to translate.
