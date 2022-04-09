@@ -17,8 +17,10 @@ there cannot be a master program, but like below, we can use the numbers to diff
 
 <img width="1440" alt="Screen Shot 2022-04-08 at 3 05 23 PM" src="https://user-images.githubusercontent.com/77656052/162538196-94e63c5d-c3c2-41b3-bd9d-6e853ea17d9d.png">
 Alternitivly, we can use the left button as run, and iterate throught the programs with the right button \n
-Example:\n
-```
+Example:
+
+
+```python
 from spike import PrimeHub, LightMatrix, Button, StatusLight, ForceSensor, MotionSensor, Speaker, ColorSensor, App, DistanceSensor, Motor, MotorPair
 from spike.control import wait_for_seconds, wait_until, Timer
 from math import *
