@@ -12,5 +12,7 @@ Energy efficiency is when it saves more energy for the same function
 we can create a product that saves money. I think this is easier and it should be considered \n
 like an efficient dog feeder or something random
 
+seebeck effect thing create
+
 
 
