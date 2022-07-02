@@ -31,3 +31,6 @@ we might need a claw or smth to release the cargo, because it might be classifie
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/77656052/171784730-8fe23b3e-9311-4c94-805a-9e8fe589450c.gif)
 
 also, if you see this gif, for the tv mission, if you look behind the mission, the robot is also pulling the mission, so we probably need a pulling attachment. with the mission, you also get a energy canister, so that is useful.
+
+![279158875_10160768802616320_5876073567206773033_n](https://user-images.githubusercontent.com/77656052/177009170-fcc6f405-5f1c-4f7d-9c81-5e5fbd44c90c.jpg)
+here is a new map that I found from a leaked fll website
