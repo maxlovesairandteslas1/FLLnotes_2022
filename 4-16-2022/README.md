@@ -15,4 +15,4 @@ def accelDecel(fixSpeed,angle,initSpeed,endSpeed,change,useDegrees,degrees,brake
         motor_pair.stop()
         
 ```
-this is very useful because it is. it has many things so it can do it correctly
+this is very useful because it is
